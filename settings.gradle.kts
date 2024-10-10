@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Photo_Gallery"
 include(":app")
- 
